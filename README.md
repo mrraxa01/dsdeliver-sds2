@@ -15,9 +15,9 @@ https://mrraxa-sds2.netlify.app/
 
 # Modelo Conceitual e Padrão de Camadas
 
-![Modelo Conceitual](https://github.com)
+![Modelo Conceitual](https://github.com/mrraxa01/dsdeliver-sds2/blob/main/assets/modelo-conceitual.png)
 
-![Modelo de camadas](https://github.com/)
+![camadas](https://github.com/mrraxa01/dsdeliver-sds2/blob/main/assets/camadas.png)
 
 # Layout
 
@@ -25,11 +25,22 @@ https://mrraxa-sds2.netlify.app/
 
 #### Página Principal
 
-![Pagina_principal](https://github.com)
+![web1](https://github.com/mrraxa01/dsdeliver-sds2/blob/main/assets/tela_web1.png)
 
 #### Página de pedidos e mapa
 
-![Pagina_pedidos](https://github.com)
+![web2](https://github.com/mrraxa01/dsdeliver-sds2/blob/main/assets/tela_web2.png)
+
+### MOBILE
+#### Tela inicial
+![mob1](https://github.com/mrraxa01/dsdeliver-sds2/blob/main/assets/Mobile%20P1.png)
+
+#### Listagem de pedidos
+![mob2](https://github.com/mrraxa01/dsdeliver-sds2/blob/main/assets/Mobile%20P2.png)
+
+#### Detalhes do Pedido e opções de interação
+![mob3](https://github.com/mrraxa01/dsdeliver-sds2/blob/main/assets/Mobile%20P3.png)
+
 
 # Tecnologias utilizadas
 ## Backend
